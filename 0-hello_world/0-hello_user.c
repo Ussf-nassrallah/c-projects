@@ -3,6 +3,8 @@
 
 /**
  * hello_user - function that takes a name from the user and print heyy to hem
+ * @name: represent the name of user
+ * Return: ...
 */
 void hello_user(void);
 
